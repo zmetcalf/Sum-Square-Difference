@@ -10,7 +10,5 @@ for i in range(1, maxNum):
     squareOfSum = i + squareOfSum
     
 squareOfSum = pow(squareOfSum, 2)
-print squareOfSum
-print sumOfSquare
-print (squareOfSum - sumOfSquare)
 
+print (squareOfSum - sumOfSquare)
